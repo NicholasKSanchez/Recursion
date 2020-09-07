@@ -1,6 +1,6 @@
 /*  File: ArrayRecursion.java
  *
- *  Programmer: your name
+ *  Programmer: Nicholas Sanchez
  *
  */
 
